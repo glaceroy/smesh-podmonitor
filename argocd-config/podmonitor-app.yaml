@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     path: helm/
-    repoURL: https://github.com/glaceroy/httpbin-deploy.git
+    repoURL: https://github.com/glaceroy/smesh-podmonitor.git
     targetRevision: HEAD
     helm:
       version: v3
