@@ -1,0 +1,6 @@
+apiVersion: v2
+name: smesh-podmonitor
+description: A Helm chart for deploy servicemesh pod monitors
+type: application
+version: 0.1.0
+
